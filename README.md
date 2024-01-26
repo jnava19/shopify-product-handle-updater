@@ -1,0 +1,1 @@
+# shopify-product-handle-updater
